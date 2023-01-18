@@ -1,12 +1,12 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=120&section=header"/>
 
-[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=00BFFF&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+GUSTAVO+BATISTA;I'M+23+YEARS+OLD;I+FROM+BRAZIL,+SP;I+AM+CURRENTLY+LIVING+IN+THE+POSITION+OF+DEVELOPER;BE+WELCOME!+:%29)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com/?color=3CB371&size=35&center=true&vCenter=true&width=1000&lines=HELLO,+MY+NAME+IS+GUSTAVO+BATISTA;I'M+23+YEARS+OLD;I+FROM+BRAZIL,+SP;I+AM+CURRENTLY+LIVING+IN+THE+POSITION+OF+DEVELOPER;BE+WELCOME!+:%29)](https://git.io/typing-svg)
 
 
 <div align="center">
   <a href="https://github.com/Gutizal">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gutizal&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gutizal&layout=compact&langs_count=7&theme=github_dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Gutizal&show_icons=true&theme=vue-dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gutizal&layout=compact&langs_count=7&theme=vue-dark"/>
 </div>
   
   ## Main skills:
@@ -39,5 +39,5 @@
   
    
 </div>
-    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=00BFFF&height=120&section=header"/>
+    <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=3CB371&height=120&section=header"/>
  
