@@ -4,7 +4,7 @@ Hello, I am Gustavo Batista !
 - 📧  E-mail: gustavobatista999@gmail.com;
 
 <div align="center">
-  <a href="https://github.com/MandyFernades">
+  <a href="https://github.com/Gutizal">
   <img height="180em" src="https://github-readme-stats.vercel.app/api
   username=Gutizal&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Gutizal&layout=compact&langs_count=7&theme=dracula"/>
