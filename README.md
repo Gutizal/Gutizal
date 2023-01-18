@@ -10,6 +10,7 @@ Hello, I am Gustavo Batista !
 </div>
   
   <div style="display: inline_block"><br>
+   <img align="left" height="250" alt="coding-time" src="code.gif">
   <img align="center" alt="java-original" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg">
   <img align="center" alt="Python" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg">
   <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
